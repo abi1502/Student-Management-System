@@ -1,0 +1,22 @@
+[
+    {"roll_no": "101", "name": "Abi", "age": 21, "course": "BCA", "mark": 85},
+    {"roll_no": "102", "name": "Priya", "age": 20, "course": "BCA", "mark": 92},
+    {"roll_no": "103", "name": "Rahul", "age": 22, "course": "Python", "mark": 78},
+    {"roll_no": "104", "name": "Anu", "age": 21, "course": "BCA", "mark": 88},
+    {"roll_no": "105", "name": "Karthik", "age": 22, "course": "Python", "mark": 74},
+    {"roll_no": "106", "name": "Divya", "age": 20, "course": "BCA", "mark": 95},
+    {"roll_no": "107", "name": "Arun", "age": 21, "course": "Python", "mark": 81},
+    {"roll_no": "108", "name": "Meena", "age": 22, "course": "BCA", "mark": 69},
+    {"roll_no": "109", "name": "Vijay", "age": 21, "course": "Python", "mark": 87},
+    {"roll_no": "110", "name": "Sneha", "age": 20, "course": "BCA", "mark": 91},
+    {"roll_no": "111", "name": "Ravi", "age": 22, "course": "Python", "mark": 76},
+    {"roll_no": "112", "name": "Keerthi", "age": 21, "course": "BCA", "mark": 89},
+    {"roll_no": "113", "name": "Surya", "age": 23, "course": "Python", "mark": 72},
+    {"roll_no": "114", "name": "Nisha", "age": 20, "course": "BCA", "mark": 94},
+    {"roll_no": "115", "name": "Aravind", "age": 22, "course": "Python", "mark": 83},
+    {"roll_no": "116", "name": "Swetha", "age": 21, "course": "BCA", "mark": 79},
+    {"roll_no": "117", "name": "Mohan", "age": 23, "course": "Python", "mark": 68},
+    {"roll_no": "118", "name": "Harini", "age": 20, "course": "BCA", "mark": 96},
+    {"roll_no": "119", "name": "Sanjay", "age": 22, "course": "Python", "mark": 75},
+    {"roll_no": "120", "name": "Pavithra", "age": 21, "course": "BCA", "mark": 90}
+]
